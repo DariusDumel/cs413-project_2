@@ -1,0 +1,55 @@
+{"frames": {
+
+"wavingman1.png":
+{
+	"frame": {"x":0,"y":0,"w":103,"h":178},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":103,"h":178},
+	"sourceSize": {"w":103,"h":178}
+},
+"wavingman2.png":
+{
+	"frame": {"x":0,"y":178,"w":103,"h":178},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":103,"h":178},
+	"sourceSize": {"w":103,"h":178}
+},
+"wavingman3.png":
+{
+	"frame": {"x":0,"y":356,"w":103,"h":178},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":103,"h":178},
+	"sourceSize": {"w":103,"h":178}
+},
+"wavingman4.png":
+{
+	"frame": {"x":0,"y":534,"w":103,"h":178},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":103,"h":178},
+	"sourceSize": {"w":103,"h":178}
+},
+"wavingman5.png":
+{
+	"frame": {"x":0,"y":712,"w":103,"h":178},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":103,"h":178},
+	"sourceSize": {"w":103,"h":178}
+}},
+"animations": {
+	"wavingman": ["wavingman1.png","wavingman2.png","wavingman3.png","wavingman4.png","wavingman5.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "wavingman.png",
+	"format": "RGBA8888",
+	"size": {"w":103,"h":890},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:ed798154b98dd5300230b80c50d59ba9:c77abf96e65f6f2a635d109d5fb556f7:bc6913bbfcf0e96c5edaa650a2d24b2a$"
+}
+}
