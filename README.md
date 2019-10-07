@@ -1,16 +1,17 @@
-# CS413 Project 2: puzzle game
+# CS413 Project 2: pizza maker pro v2
 
 ## Proposal
 
-a puzzle game that is reallu fun and loose but the underlying puzzle is challanging. through happy visuals and joyous noises the player will filled with warm feelings as they play through the game.
+adding some ui elements to pizza maker pro aswell as cleaning up the code.
+pizza maker pro v2 will have a start screen, credits, and end screen showcasing your pizza, some animations, some sounds, a cleaner background and a reset button for the pizza.
 
 ## Checklist
 
-- [ ] a title screen
-- [ ] a credits screen
+- [x] a title screen
+- [x] a credits screen
 - [ ] instructions / tutorial
 - [ ] one or more end screens
-- [ ] one or more menus
+- [x] one or more menus
 - [ ] use of spritesheets
 - [ ] use of tweening
 - [ ] use of sound
