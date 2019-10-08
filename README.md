@@ -9,11 +9,10 @@ pizza maker pro v2 will have a start screen, credits, and end screen showcasing 
 
 - [x] a title screen
 - [x] a credits screen
-- [ ] instructions / tutorial
-- [ ] one or more end screens
+- [x] instructions / tutorial
+- [x] one or more end screens
 - [x] one or more menus
-- [ ] use of spritesheets
-- [ ] use of tweening
-- [ ] use of sound
-- [ ] use of scene graph and classes to organize "screens"
+- [x] use of spritesheets
+- [x] use of tweening
+- [x] use of scene graph and classes to organize "screens"
 - [x] use of Git
